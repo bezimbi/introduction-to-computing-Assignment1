@@ -1,0 +1,5 @@
+get (mail or username) and password
+if (both match with the onses in the database of customer account)
+    Then allow login
+Else
+    Login failure
