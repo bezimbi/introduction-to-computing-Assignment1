@@ -1,0 +1,10 @@
+get user id (Name, password, mail etc.)
+if (id data validation is front)
+    Then send for backend validation
+Else
+    go back to 1
+if (backend validation OK)
+    Then user creation OK
+Else
+    operation failure
+    
