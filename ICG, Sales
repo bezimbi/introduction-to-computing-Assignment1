@@ -1,0 +1,12 @@
+Start
+get price of item
+ price = float(raw_input("What is the item's price? ")
+ get sales tax rate
+tax_rate = float(raw_input("Enter the sales tax rate, in decimal: ")
+sales tax = price of item times sales tax rate
+tax = price * tax_rate
+  final price = price of item + sales tax
+ final_price = price + tax
+  display final price
+ print "The final price is:", final_price
+ End
